@@ -1,16 +1,13 @@
-### Hi there 👋
+# Intro
+- 👋 Hi, I’m @SurrealArts
+- 👀 I’m interested in anything in programming
+- 💞️ I’m looking to collaborate on anything, really.
+- 📫 Reach me out on my Twitter account.
 
-<!--
-**SurrealArts/SurrealArts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Socials
+- Twitter: @heiwamakina
+- Discord: @anato
+<!---
+SurrealArts/SurrealArts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
